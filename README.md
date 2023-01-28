@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://github.com/Bebe-dev/Testimonials-grid-section)
+- Live Site URL: [Live site URL](https://bebe-dev.github.io/Testimonials-grid-section/)
 
 ## My process
 
